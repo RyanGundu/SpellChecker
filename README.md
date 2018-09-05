@@ -1,15 +1,15 @@
 # SpellChecker
 
 Program Description
-########################
+
 - This program reads a provided dictionary of words and stores it in a hash table for quick access. It can be used to scan user provided files and check for spelling based on the words contained in the dictionary file.
 
 Additional Features
-###################
+
 - The program will not let you input a word with any spaces or non alpha characters 
 
 Hash Function and Resolution Strategy
-#####################################
+
 - My hash function performs these 3 steps to hash data
 - Consider the word "test"
 
