@@ -32,7 +32,7 @@ Step 3: (step 2) % (table_size)
 
 
 To run the program
-##################
+
 - To run the test main run "make" , and then "make runTest" , this runs the 
 line "./bin/runTest"
 
